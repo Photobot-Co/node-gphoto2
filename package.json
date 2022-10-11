@@ -1,9 +1,9 @@
 {
   "author": "Leonhardt Wille <wille@riverlabs.de>",
-  "name": "gphoto2",
+  "name": "@photobot/gphoto2",
   "description": "Node.js wrapper for libgphoto2",
   "version": "0.3.2",
-  "homepage": "https://github.com/lwille/node-gphoto2",
+  "homepage": "https://github.com/Photobot-Co/node-gphoto2",
   "keywords": [
     "photography",
     "dslr",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lwille/node-gphoto2.git"
+    "url": "https://github.com/Photobot-Co/node-gphoto2.git"
   },
   "os": [
     "darwin",
@@ -19,7 +19,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "nan": "^2.14.0"
+    "nan": "^2.17.0"
   },
   "devDependencies": {
     "async": "^2.6.1",
